@@ -12,3 +12,4 @@ class TestCalculator:
 
     def test_substraction(self):
         assert 2 == calculator.substract(4, 2)
+
